@@ -9,3 +9,15 @@ w01-170216-17-PS-Doing Lab Session Week01
 w01-170216-21-PS-Doing Lab Session Week01
 w02-170220-06-LR-About : Scripting, Review Last Week
 w02-170220-06-LR-About : Processes, Brief Reading
+w02-170221-13-LR-About : Security & Protection, From : Lecturer
+w02-170221-13-LR-About : Security $ Protection, From : Lecturer
+w02-170221-14-LR-About : Basic C, From : Lecturer
+w02-170223-13-LR-About : Basic C Demo, From : Lecturer
+w02-170223-13-LR-About : Basic C Demo : Pointer, From : Lecturer
+w02-170223-14-LR-About : Basic C Demo : Pointer, From : Lecturer
+w02-170223-20-PS-Doing Lab Session Week02
+w02-170223-20-PS-Doing Lab Session Week02
+w02-170223-21-PS-Doing Lab Session Week02
+w02-170223-21-PS-Doing Lab Session Week02
+
+
