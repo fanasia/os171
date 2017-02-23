@@ -7,3 +7,5 @@ w01-170216-14-LR-About : Practice Scripting, From : Lecturer
 w01-170216-17-PS-Doing Lab Session Week01
 w01-170216-17-PS-Doing Lab Session Week01
 w01-170216-21-PS-Doing Lab Session Week01
+w02-170220-06-LR-About : Scripting, Review Last Week
+w02-170220-06-LR-About : Processes, Brief Reading
