@@ -19,5 +19,12 @@ w02-170223-20-PS-Doing Lab Session Week02
 w02-170223-20-PS-Doing Lab Session Week02
 w02-170223-21-PS-Doing Lab Session Week02
 w02-170223-21-PS-Doing Lab Session Week02
-
+w03-170228-13-LR-About : BIOS, From : Lecturer
+w03-170228-13-LR-About : BIOS, From : Lecturer
+w03-170228-14-LR-Quiz about review lessons and basic linux command
+w03-170302-13-LR-About : Linux Start Up, From : Lecturer
+w03-170302-13-LR-About : Linux Start Up, From : Lecturer
+w03-170302-14-LR-About : Linux Start Up, From : Lecturer
+w03-170303-02-PS-Doing Lab Session Week03
+w03-170303-03-PS-Doing Lab Session Week03
 
