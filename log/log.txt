@@ -27,4 +27,13 @@ w03-170302-13-LR-About : Linux Start Up, From : Lecturer
 w03-170302-14-LR-About : Linux Start Up, From : Lecturer
 w03-170303-02-PS-Doing Lab Session Week03
 w03-170303-03-PS-Doing Lab Session Week03
-
+w04-170307-13-LR-About : Pointer, From : Lecturer
+w04-170307-13-LR-About : Pointer, From : Lecturer
+w04-170307-14-LR-About : Pointer, From : Lecturer
+w04-170309-05-PS-Doing Lab Session Week04
+w04-170309-13-LR-About : Exercise Worksheet about pointer, From : Lecturer
+w04-170309-13-LR-About : Exercise Worksheet about pointer, From : Lecturer
+w04-170309-13-LR-About : Exercise Worksheet about pointer, From : Lecturer
+w04-170310-04-PS-Doing Lab Session Week04
+w04-170310-04-PS-Doing Lab Session Week04
+w04-170310-06-PS-Doing Lab Session Week04
