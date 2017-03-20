@@ -37,3 +37,10 @@ w04-170309-13-LR-About : Exercise Worksheet about pointer, From : Lecturer
 w04-170310-04-PS-Doing Lab Session Week04
 w04-170310-04-PS-Doing Lab Session Week04
 w04-170310-06-PS-Doing Lab Session Week04
+w05-170314-13-LR-About : Memory, From : Lecturer
+w05-170314-13-LR-About : Memory, From : Lecturer
+w05-170314-14-LR-About : Memory, From : Lecturer
+w05-170323-05-PS-Doing Lab Session Week05
+w05-170323-06-PS-Doing Lab Session Week05
+w06-170320-08-LR-Watching C Programming Demo on Arsip
+w06-170320-09-LR-Watching C Programming Demo on Arsip
