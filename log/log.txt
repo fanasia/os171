@@ -42,5 +42,21 @@ w05-170314-13-LR-About : Memory, From : Lecturer
 w05-170314-14-LR-About : Memory, From : Lecturer
 w05-170323-05-PS-Doing Lab Session Week05
 w05-170323-06-PS-Doing Lab Session Week05
-w06-170320-08-LR-Watching C Programming Demo on Arsip
-w06-170320-09-LR-Watching C Programming Demo on Arsip
+w06-170327-08-LR-Watching C Programming Demo on Arsip
+w06-170327-09-LR-Watching C Programming Demo on Arsip
+w07-170404-13-LR-Operating System Midterm Test
+w07-170404-13-LR-Operating System Midterm Test
+w07-170404-14-LR-Operating System Midterm Test
+w07-170404-14-LR-Operating System Midterm Test
+w07-170404-15-LR-Operating System Midterm Test
+w07-170406-13-LR-About : Multithread, Multiprocessing, From : Lecturer
+w07-170406-13-LR-About : Multithread, Multiprocessing, From : Lecturer
+w07-170406-14-LR-About : Multithread, Multiprocessing, From : Lecturer
+w08-170411-13-LR-About : Fork() code practice, From : Lecturer
+w08-170411-14-LR-About : Fork() code practice, From : Lecturer
+w08-170411-14-LR-About : Fork() code practice, From : Lecturer
+w08-170415-10-PS-Doing Lab Session Week06
+w08-170415-10-PS-Doing Lab Session Week06
+w08-170415-11-PS-Doing Lab Session Week06
+
+
