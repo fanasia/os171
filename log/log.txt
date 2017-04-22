@@ -58,5 +58,10 @@ w08-170411-14-LR-About : Fork() code practice, From : Lecturer
 w08-170415-10-PS-Doing Lab Session Week06
 w08-170415-10-PS-Doing Lab Session Week06
 w08-170415-11-PS-Doing Lab Session Week06
-
-
+w09-170418-13-LR-About : Synchronization, From : Lecturer
+w09-170418-13-LR-About : Synchronization, From : Lecturer
+w09-170418-14-LR-About : Synchronization, From : Lecturer
+w09-170422-12-PS-Doing Lab Session Week07
+w09-170422-12-PS-Doing Lab Session Week07
+w09-170422-13-PS-Doing Lab Session Week07
+w09-170422-13-PS-Doing Lab Session Week07
